@@ -1,0 +1,12 @@
+C:\Users\reduardoelias\source\repos\Solution1\Principal\bin\Debug\Principal.exe.config
+C:\Users\reduardoelias\source\repos\Solution1\Principal\bin\Debug\Principal.exe
+C:\Users\reduardoelias\source\repos\Solution1\Principal\bin\Debug\Principal.pdb
+C:\Users\reduardoelias\source\repos\Solution1\Principal\obj\Debug\Principal.csprojAssemblyReference.cache
+C:\Users\reduardoelias\source\repos\Solution1\Principal\obj\Debug\Principal.Form1.resources
+C:\Users\reduardoelias\source\repos\Solution1\Principal\obj\Debug\Principal.Properties.Resources.resources
+C:\Users\reduardoelias\source\repos\Solution1\Principal\obj\Debug\Principal.csproj.GenerateResource.cache
+C:\Users\reduardoelias\source\repos\Solution1\Principal\obj\Debug\Principal.csproj.CoreCompileInputs.cache
+C:\Users\reduardoelias\source\repos\Solution1\Principal\obj\Debug\Principal.exe
+C:\Users\reduardoelias\source\repos\Solution1\Principal\obj\Debug\Principal.pdb
+C:\Users\reduardoelias\source\repos\Solution1\Principal\obj\Debug\Principal.NewCaja.resources
+C:\Users\reduardoelias\source\repos\Solution1\Principal\obj\Debug\Principal.Buscar.resources
